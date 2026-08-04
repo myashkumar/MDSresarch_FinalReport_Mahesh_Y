@@ -14,5 +14,5 @@ How to reproduce
 
 
 Download australia.csv as described above.
-Run Phase_two.R with all CSV files and images in the working directory..
+Run Phase_two.R with all CSV files and images in the working directory.
 Knit Report_Mahesh_Yash.Rmd in RStudio (or via rmarkdown) to produce the final PDF.
